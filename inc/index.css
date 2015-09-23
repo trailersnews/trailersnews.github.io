@@ -1,0 +1,269 @@
+.html
+{
+	background: #7F7F7F url("../images/parlamentoeuropeo.jpg") repeat center top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 990px;
+	min-height: 580px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -102px;
+}
+
+#u314-3
+{
+	z-index: 29;
+	width: 5px;
+	left: -294px;
+	position: relative;
+}
+
+#pu86
+{
+	width: 0.01px;
+	left: -100px;
+	margin-top: 81px;
+	position: relative;
+}
+
+#u86
+{
+	z-index: 2;
+	width: 1190px;
+	-pie-box-shadow: 0px 8px 8px #7F7F7F;
+	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #1E0212;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u89-5
+{
+	z-index: 3;
+	width: 231px;
+	min-height: 27px;
+	font-size: 44px;
+	line-height: 58px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-weight: bold;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 120px;
+}
+
+#u89-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u89
+{
+	line-height: 58px;
+}
+
+#u89-2
+{
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u196
+{
+	z-index: 8;
+	width: 950px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #3A89C9;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 113px;
+	left: 120px;
+}
+
+#u399
+{
+	z-index: 45;
+	width: 237px;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -19px;
+	left: 12px;
+}
+
+#u399_img
+{
+	padding-right: 16px;
+}
+
+#u197-7
+{
+	z-index: 9;
+	width: 653px;
+	min-height: 200px;
+	text-align: center;
+	font-size: 19px;
+	color: #FFFFFF;
+	line-height: 32px;
+	font-family: rosario, sans-serif;
+	font-weight: 400;
+	margin-bottom: -17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 269px;
+}
+
+#u201
+{
+	z-index: 47;
+	width: 220px;
+	position: relative;
+	margin-right: -10000px;
+	left: 850px;
+}
+
+#u201_img
+{
+	padding-right: 5px;
+}
+
+#u227
+{
+	z-index: 16;
+	width: 948px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #9CC4E4;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	margin-left: 19px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u374-11
+{
+	z-index: 32;
+	width: 896px;
+	min-height: 43px;
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	line-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 25px;
+}
+
+#u197-2,#u374,#u374-6,#u374-9
+{
+	font-family: rosario, sans-serif;
+	font-weight: 700;
+}
+
+#u374-3,#u374-5,#u374-8
+{
+	font-family: rosario, sans-serif;
+	font-weight: 400;
+}
+
+#pu254
+{
+	width: 0.01px;
+	left: -100px;
+	top: -24px;
+	margin-bottom: -24px;
+	position: relative;
+}
+
+#u254
+{
+	z-index: 17;
+	width: 1190px;
+	-pie-box-shadow: 8px 0px 8px #7F7F7F;
+	-moz-box-shadow: 8px 0px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 8px 0px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 8px 0px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #E9F2F9;
+	padding-bottom: 6px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+}
+
+#u86_align_to_page,#u254_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 990px;
+	position: relative;
+	left: -100px;
+}
+
+#u255-10
+{
+	z-index: 18;
+	width: 948px;
+	min-height: 64px;
+	text-align: center;
+	font-family: rosario, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 122px;
+}
+
+#u312
+{
+	z-index: 28;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 970px;
+}
+
+#u387
+{
+	z-index: 43;
+	width: 200px;
+	position: relative;
+	margin-right: -10000px;
+	left: 870px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
